@@ -1,4 +1,4 @@
-**Soccer Score Keeper**
+# Soccer Score Keeper
 
 ScoreKeeper project from Udacity Android Basics: Input Course
 
